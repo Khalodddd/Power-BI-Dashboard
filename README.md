@@ -20,7 +20,7 @@ To access the dashboard, download and install Power BI Desktop from the [officia
 The dashboard utilizes real-time data from reputable sources such as the World Health Organization (WHO), Johns Hopkins University, and other reliable sources tracking the COVID-19 pandemic worldwide.
 
 ## Screenshots
-![Dashboard Preview](Screenshot 2024-04-19 225937.png)
+![Screenshot 2024-04-19 225937](https://github.com/Khalodddd/Dashboard/assets/90678093/727b5ee9-6dc0-4e5b-a6cf-61e19dd63d66)
 
 ## Feedback and Contributions
 Feedback, suggestions, and contributions to improve the dashboard are welcome! Feel free to open an issue or submit a pull request on GitHub.
